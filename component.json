@@ -1,0 +1,8 @@
+{
+    "name" : "aSliderText",
+    "version" : "1.0.1",
+    "main" : "./jquery.aSliderText.js",
+    "dependencies" : {
+        "jquery" : "1.9.*"
+    }
+}
